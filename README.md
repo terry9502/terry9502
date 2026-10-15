@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Terry 👋
 
-<!--
-**terry9502/terry9502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering | Go | Distributed Systems**
 
-Here are some ideas to get you started:
+I'm a software engineering graduate with an interest in backend development, distributed systems, and cloud-native technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how software works beneath the surface, building practical projects, and documenting what I learn along the way.
+
+### 🔭 Currently Exploring
+
+- **Go** — Learning the language and building small projects.
+- **Distributed Systems** — Exploring reliability, consistency, concurrency, and fault tolerance.
+- **Systems Engineering** — Strengthening my knowledge of Linux, networking, operating systems, and databases.
+- **Technical Writing** — Sharing notes, experiments, and ideas on [NIUTR](https://niutr.org).
+
+### 🛠 Tech Stack
+
+**Languages:** Go · Java · C++ · Python · JavaScript / TypeScript
+
+**Backend:** Spring Boot · REST APIs · MySQL
+
+**Tools & Infrastructure:** Git · Linux · Docker · WSL2
+
+**Currently Learning:** Go · Distributed Systems · Cloud-Native Engineering
+
+### 📚 Learning in Public
+
+I believe that understanding a system is more valuable than simply knowing how to use it.
+
+I document my learning process, including the mistakes, questions, and experiments that help me understand engineering concepts more deeply.
+
+You can find my notes at [NIUTR](https://niutr.org).
+
+### 📫 Connect
+
+- **Website:** https://niutr.org
+- **Email:** hello@niutr.org
+- **GitHub:** https://github.com/terry9502
+
+---
+
+*Learning by building. Thinking by writing.*
